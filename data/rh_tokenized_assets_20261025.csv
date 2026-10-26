@@ -1,0 +1,204 @@
+symbol,name,token_address,created_block,decimals,supply,price_usd,price_source,value_usd
+SPY,SPDR S&P 500 ETF Trust,0x117cc2133c37b721f49de2a7a74833232b3b4c0c,48294,18,27362.98433416,761.11,"stock close, Yahoo (last trading hour)",20826241.00657252
+NVDA,NVIDIA,0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec,45898,18,88540.44857983,211.114,"stock close, Yahoo (last trading hour)",18692128.26148223
+SPCX,SpaceX,0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea,58487,18,85733.26858,147.5778,"stock close, Yahoo (last trading hour)",12652327.163845524
+CRCL,Circle Internet Group,0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5,48280,18,110489.27968,85.7181,"stock close, Yahoo (last trading hour)",9470931.12453821
+GLD,SPDR Gold Trust,0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e,20947470,18,22098.26033,366.33,"stock close, Yahoo (last trading hour)",8095255.7066889
+META,Meta Platforms,0xc0d6457c16cc70d6790dd43521c899c87ce02f35,48281,18,10771.88774508,640.1,"stock close, Yahoo (last trading hour)",6895085.345625708
+GOOGL,Alphabet Class A,0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3,48284,18,19824.64387766,321.1499,"stock close, Yahoo (last trading hour)",6366682.3988461215
+MSTR,Strategy Inc.,0xec262a75e413fafd0df80480274532c79d42da09,48238,18,40872.27033,146.58,"stock close, Yahoo (last trading hour)",5991057.384971401
+QQQ,Invesco QQQ,0xd5f3879160bc7c32ebb4dc785f8a4f505888de68,48287,18,7636.9338237,704.88,"stock close, Yahoo (last trading hour)",5383121.913649656
+MU,Micron Technology,0xff080c8ce2e5feadaca0da81314ae59d232d4afd,48292,18,5622.90787997,879.9,"stock close, Yahoo (last trading hour)",4947596.643585603
+TSLA,Tesla,0x322f0929c4625ed5bad873c95208d54e1c003b2d,34767,18,11714.97519,372.22,"stock close, Yahoo (last trading hour)",4360548.0652218005
+AAPL,Apple,0xaf3d76f1834a1d425780943c99ea8a608f8a93f9,48276,18,11419.03677083,347.61,"stock close, Yahoo (last trading hour)",3969371.3719082163
+AMZN,Amazon,0x12f190a9f9d7d37a250758b26824b97ce941bf54,48288,18,12040.85075,248.78,"stock close, Yahoo (last trading hour)",2995522.849585
+GME,GameStop,0x1b0e319c6a659f002271b69db8a7df2f911c153e,48258,18,119080.61147,24.735,"stock close, Yahoo (last trading hour)",2945458.92471045
+COIN,Coinbase,0x6330d8c3178a418788df01a47479c0ce7ccf450b,48319,18,17306.15878,164.2849,"stock close, Yahoo (last trading hour)",2843140.564556422
+HIMS,Hims & Hers Health,0xccee82fe024c36fa15e1005ede3e9e4787e23d09,20950062,18,92456.33832,27.79,"stock close, Yahoo (last trading hour)",2569361.6419128
+INTC,Intel,0xc72b96e0e48ecd4dc75e1e45396e26300bc39681,48286,18,29151.40234,86.6363,"stock close, Yahoo (last trading hour)",2525569.6385489423
+AMD,AMD,0x86923f96303d656e4aa86d9d42d1e57ad2023fdc,48278,18,4551.6406,516.8,"stock close, Yahoo (last trading hour)",2352287.86208
+PLTR,Palantir Technologies,0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a,48285,18,11604.08953,197.4318,"stock close, Yahoo (last trading hour)",2291016.283269054
+MSFT,Microsoft,0xe93237c50d904957cf27e7b1133b510c669c2e74,48275,18,3749.94230167,524.9113,"stock close, Yahoo (last trading hour)",1968387.0884945916
+SKHY,SK hynix Inc. American Depositary Shares,0x84cab63bc87912e71ad199ff14a0ba45de68fef8,8691227,18,14149.34466687,136.9768,"stock close, Yahoo (last trading hour)",1938131.9545649185
+AMC,AMC Entertainment,0x05a3d1cd21d0c88145e82600e62e7e496e0f222b,20948513,18,665119.646,2.8995,"stock close, Yahoo (last trading hour)",1928514.413577
+RDDT,Reddit,0x05b37fb53a299a1b874a619e1c4c404d52c36f4c,46131,18,12541.3338,145.09,"stock close, Yahoo (last trading hour)",1819622.1210420001
+SGOV,iShares 0-3 Month Treasury Bond,0x92fd66527192e3e61d4ddd13322aa222de86f9b5,48290,18,17865.73593061,100.66,"stock close, Yahoo (last trading hour)",1798364.9787752025
+USO,United States Oil Fund,0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344,48277,18,9438.61761,169.5076,"stock close, Yahoo (last trading hour)",1599917.4183888359
+BABA,Alibaba,0xad25ac6c84d497db898fa1e8387bf6af3532a1c4,48262,18,15763.4996,99.73,"stock close, Yahoo (last trading hour)",1572093.815108
+SNDK,Sandisk Corporation,0xb90a19ff0af67f7779aff50a882a9cff42446400,48293,18,1090.83734,1239.8522,"stock close, Yahoo (last trading hour)",1352477.0758411482
+DJT,Trump Media & Technology Group,0x1d11f0496982706c5e14a514d4e79f2e6bde4516,20946859,18,209217.35144,6.4,"stock close, Yahoo (last trading hour)",1338991.0492160001
+TSM,Taiwan Semiconductor Manufacturing,0x58ffe4a942d3885baa22d7520691f611ef09e7aa,48257,18,3198.80739773,417.4899,"stock close, Yahoo (last trading hour)",1335469.7805975578
+TTWO,Take-Two Interactive Software,0x5e81213613b6b86eab4c6c50d718d34359459786,46123,18,5849.421,204.98,"stock close, Yahoo (last trading hour)",1199014.31658
+SLV,iShares Silver Trust,0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f,48279,18,23522.87088,48.6,"stock close, Yahoo (last trading hour)",1143211.524768
+BE,Bloom Energy,0x822cc93ffd030293e9842c30bbd678f530701867,48283,18,4532.93765,192.65,"stock close, Yahoo (last trading hour)",873270.4382725
+LLY,Eli Lilly,0x8005d266423c7ea827372c9c864491e5786600ea,48260,18,610.50737282,1279.0,"stock close, Yahoo (last trading hour)",780838.92983678
+DELL,Dell,0x941ae714ec6d8130c7b75d67160ca08f1e7d11dd,48222,18,1656.97892366,456.1,"stock close, Yahoo (last trading hour)",755748.087081326
+NFLX,Netflix,0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8,48218,18,11412.11829,65.7845,"stock close, Yahoo (last trading hour)",750740.4956485049
+COST,Costco,0x4ea005168d7f09a7a0ba9d1def21a479950e44c2,48316,18,703.8958277,1002.01,"stock close, Yahoo (last trading hour)",705310.6583136771
+MRNA,Moderna,0x43b07d15ce533bec5476d70c22a78a1b2b662155,20946697,18,3502.08291,201.27,"stock close, Yahoo (last trading hour)",704864.2272957
+ORCL,Oracle,0xb0992820e760d836549ba69bc7598b4af75dee03,48289,18,5543.08451904,126.1177,"stock close, Yahoo (last trading hour)",699081.070446931
+RBLX,Roblox,0xf0c4bf4c582cb3836e98394b1d4e7b7281101be8,48271,18,10210.00806,52.7501,"stock close, Yahoo (last trading hour)",538578.946165806
+IBM,IBM,0x980dcf6766fa79f5cf0c4aadb3ab477ff15a9619,20949463,18,1821.42701,253.0728,"stock close, Yahoo (last trading hour)",460953.63341632806
+CRWV,CoreWeave,0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3,48282,18,8097.69576,53.9501,"stock close, Yahoo (last trading hour)",436871.496021576
+NBIS,Nebius Group,0x9d9c6684f596f66a64c030b93a886d51fd4d7931,48266,18,2665.62218,158.7355,"stock close, Yahoo (last trading hour)",423128.86955338996
+LITE,Lumentum,0x8ef20885f94e3d9bc7eb3080279188bd5ed7c08c,46129,18,485.09,755.0,"stock close, Yahoo (last trading hour)",366242.94999999995
+USAR,USA Rare Earth,0xd917b029c761d264c6a312bbbcda868658ef86a6,48291,18,37435.8496,9.31,"stock close, Yahoo (last trading hour)",348527.75977600005
+MRVL,Marvell Technology,0x62fd0668e10d8b72339be2dcf7643001688ff13b,48320,18,1458.14391925,227.7001,"stock close, Yahoo (last trading hour)",332019.5162276169
+RIVN,Rivian Automotive,0xb1bf26c1d20ff267a4f93550d1e0d06ac40a114b,48224,18,27804.01847,11.8331,"stock close, Yahoo (last trading hour)",329007.730957357
+LULU,Lululemon,0x4e62068525ab11fe768e29dfd00ef909b9803016,46124,18,3163.55266,99.1649,"stock close, Yahoo (last trading hour)",313713.383173634
+SNAP,Snap,0xf6589f11bc40b669e584073f428b05562f568733,20949500,18,47462.16961,6.32,"stock close, Yahoo (last trading hour)",299960.9119352
+PFE,Pfizer,0x7066a64c24e4206cd62e83bf198c1e7eb361f51e,20946617,18,8491.72954,30.02,"stock close, Yahoo (last trading hour)",254921.7207908
+AVGO,Broadcom,0x156e175dd063a8ce274c50654ef40e0032b3fbcf,48318,18,752.30248616,322.231,"stock close, Yahoo (last trading hour)",242415.18241782294
+GLXY,Galaxy Digital Inc.,0x2d427692e928fa156ec22acfabafa0447c5805b7,20947542,18,16072.08377,14.5,"stock close, Yahoo (last trading hour)",233045.21466499998
+JNJ,Johnson & Johnson,0x03dfbbe0ac4e7bcdafd08ed41a400326b77d8c80,20949982,18,843.43794425,263.157,"stock close, Yahoo (last trading hour)",221956.59909499722
+NNE,Nano Nuclear Energy,0xbef75684c43c4ea7bd18dd532a2244674ee8b926,46121,18,15646.42364,12.164,"stock close, Yahoo (last trading hour)",190323.09715696
+QUBT,Quantum Computing,0x59818904ab4ce163b3ce4ffb64f2d6ca02c434b4,48256,18,28315.20145,6.5208,"stock close, Yahoo (last trading hour)",184637.76561516002
+BB,Blackberry,0x48e39e56acdba37b09020c0b734a613c9a2f100a,20950571,18,20452.83109,8.8895,"stock close, Yahoo (last trading hour)",181815.441974555
+NET,Cloudflare,0x116f00968269b7bfbad4109ce591d6e74c0601d4,20946819,18,517.68843,327.88,"stock close, Yahoo (last trading hour)",169739.6824284
+BA,Boeing,0x4d21483a44bf67a86b77e3da301411880797d452,46114,18,895.05093,188.0941,"stock close, Yahoo (last trading hour)",168353.799132513
+F,Ford Motor,0x25c288e6d899b9bc30160965ad9644c67e73be0c,48267,18,12685.82977523,11.58,"stock close, Yahoo (last trading hour)",146901.9087971634
+BULL,Webull,0xcef9027c7d6985b85f0ba431125073529a947a68,20948552,18,26047.12803,5.58,"stock close, Yahoo (last trading hour)",145342.9744074
+ASML,ASML Holding NV,0x47f93d52cbec7c6d2cfc080e154002370a60daea,46137,18,90.96537316,1570.0,"stock close, Yahoo (last trading hour)",142815.6358612
+FIG,Figma,0x41f4267525a8aff329540ef24fd83d9044758b33,20947845,18,5573.00177,24.6,"stock close, Yahoo (last trading hour)",137095.84354200002
+EWY,iShares MSCI South Korea fund,0x7f0abef0c07280f82c6a08ead09ded6bae2c13fc,48265,18,901.45663,151.0,"stock close, Yahoo (last trading hour)",136119.95113
+UPS,UPS,0xf23250dac154d05bb671cb0d0ebef3c635c79ce2,48225,18,1345.57548385,101.1,"stock close, Yahoo (last trading hour)",136037.681417235
+LMT,Lockheed,0x329fcaceb9ad6f9580dd5f643fed0646900d043c,20949538,18,201.02634818,604.0,"stock close, Yahoo (last trading hour)",121419.91430072
+INDA,iShares MSCI India ETF,0xacef2e09adb47ad6abebad9ff06689e60615c2b6,20950291,18,2563.78659,46.45,"stock close, Yahoo (last trading hour)",119087.88710550002
+WDC,Western Digital,0xf52597345a8edf418bc4071b4a35112472277d3e,20948407,18,344.94262246,342.0,"stock close, Yahoo (last trading hour)",117970.37688132
+SMH,VanEck Semiconductor ETF,0x072f979c2cac8e1391b0162a87fee094bf8744a0,20947096,18,209.39702,526.77,"stock close, Yahoo (last trading hour)",110304.0682254
+CBRS,Cerebras Systems,0x5c90450bbb4273d7b2f17cf6917aeb237a569679,48216,18,974.53111,110.8636,"stock close, Yahoo (last trading hour)",108040.027166596
+DDOG,Datadog,0x27c99fbde9d0d2aa4f4bfb4943f237843ddf6958,48230,18,390.76903,270.02,"stock close, Yahoo (last trading hour)",105515.45348059999
+NU,Nu,0x408c14038a04f7bd235329e26d2bf569ee20e250,48251,18,6935.50689,15.21,"stock close, Yahoo (last trading hour)",105489.0597969
+SNOW,Snowflake,0xba0cab75495255d0cb58e22b648bfed4ecd1f47e,20949878,18,304.44177,324.51,"stock close, Yahoo (last trading hour)",98794.39878270001
+IREN,IREN Limited,0xf0ab0c93be6f41369d302e55db1a96b3c430212d,48250,18,3859.62245,24.9,"stock close, Yahoo (last trading hour)",96104.599005
+AMAT,Applied Materials,0x36046893810a7e7fce501229d57dc3fc8c8716d0,48252,18,226.56484246,376.8,"stock close, Yahoo (last trading hour)",85369.632638928
+RCAT,Red Cat,0xfde6b5d9bb419b10c23268c74e369abff39c0460,20947204,18,18340.12167,4.4,"stock close, Yahoo (last trading hour)",80696.535348
+PENG,Penguin Solutions,0x9b23573b156b52565012f5ce02cdf60afbaa70be,46126,18,1443.16357,53.27,"stock close, Yahoo (last trading hour)",76877.3233739
+SHOP,Shopify,0xf53f66751b1eff985311b693531e3290f600c410,48273,18,456.04322,168.2564,"stock close, Yahoo (last trading hour)",76732.190441608
+SOXX,iShares Semiconductor ETF,0x75742c18bc1f1c5c5f448f4c9d9c6f66dafaaa38,48241,18,160.5539663,477.0436,"stock close, Yahoo (last trading hour)",76591.24207803069
+WYFI,"WhiteFiber, Inc.",0x9e7abd3c9139d14e4c86dce0e455aab7a0c2fb3e,20950470,18,7154.0,10.02,"stock close, Yahoo (last trading hour)",71683.08
+VTI,Vanguard Total Stock Market ETF,0x0594134df3f171a354d9c85ebd65b7a6148f6d09,20950257,18,175.01500656,373.838,"stock close, Yahoo (last trading hour)",65427.26002237728
+QCOM,Qualcomm,0x0f17206447090e464c277571124dd2688e48aea9,48263,18,370.61492937,175.76,"stock close, Yahoo (last trading hour)",65139.279986071204
+RKLB,Rocket Lab Corporation,0x3b14c39e89d60d627b42a1a4ca45b5bb45fc12e2,48234,18,892.67323,52.4861,"stock close, Yahoo (last trading hour)",46852.936417103
+CEG,Constellation Energy,0xae517a2903e68bd929dfd15be875f8369d53e94a,20947610,18,161.2439,253.49,"stock close, Yahoo (last trading hour)",40873.716211
+SOFI,SoFi Technologies,0x98e75885157c80992a8d41b696d8c9c6fb30a926,48223,18,2792.83558,14.58,"stock close, Yahoo (last trading hour)",40719.5427564
+XOM,Exxon Mobil,0xf9b46d3d1b22199d4d1025a9cedb540a33f1a2d5,48259,18,213.31474568,183.28,"stock close, Yahoo (last trading hour)",39096.3265882304
+GE,General Electric,0x63b814ddbd6bf339f25fed8c36158a008d5b373e,20949159,18,135.15430592,286.01,"stock close, Yahoo (last trading hour)",38655.483036179205
+APP,AppLovin,0xa249baf1063af884807c1e1400aef7784836917e,20947577,18,135.96048,260.8743,"stock close, Yahoo (last trading hour)",35468.595047664
+ON,ON Semiconductor,0xbbd09f72b025360fee5c928053dca6248d35be54,20947244,18,484.48101,72.0,"stock close, Yahoo (last trading hour)",34882.63272
+SOUN,SoundHound AI,0x6e3dfd9f7e1649baa14d25cac18c94d62db10a54,20950099,18,7888.69138,4.4,"stock close, Yahoo (last trading hour)",34710.242072
+ZM,Zoom,0x44c4f142009036cf477ed2d09932051843137cf1,48221,18,357.11098,95.77,"stock close, Yahoo (last trading hour)",34200.5185546
+INFQ,Infleqtion,0xb853bc83a753342a4f8320ea680b4b1e84118d21,20950504,18,3888.09002,8.71,"stock close, Yahoo (last trading hour)",33865.26407420001
+RUN,Sunrun,0x756bc80af765c82da966a788858d65adf14f3793,20950216,18,4333.41289,7.5799,"stock close, Yahoo (last trading hour)",32846.836364910996
+WDAY,Workday,0x82da4646242e1d962e96e932269dc644c94a9caa,46112,18,149.59366,209.99,"stock close, Yahoo (last trading hour)",31413.1726634
+HPE,HP Enterprise,0x59dd09d4900c2e4b5f75b7c0d4e6796fcc234cb1,20947327,18,546.29380657,56.8276,"stock close, Yahoo (last trading hour)",31044.565922237332
+CRM,Salesforce,0xd95b44124e475743a7589e68f3d74008a5536d44,20946974,18,117.26683982,248.69,"stock close, Yahoo (last trading hour)",29163.0903948358
+ASTS,AST SpaceMobile,0x1af6446f07eb1d97c546afc8c9544cbdf3ad5137,46128,18,662.366,39.48,"stock close, Yahoo (last trading hour)",26150.209679999996
+CCL,Carnival Corporation,0x9651342cea770ae9a2969ba2a52611523146aef9,48217,18,910.40268315,26.1043,"stock close, Yahoo (last trading hour)",23765.424761752543
+FUTU,Futu Holdings,0xeb30663bdff0622ef4e4e5cbb4e975f19f33f51d,46130,18,234.778,99.9,"stock close, Yahoo (last trading hour)",23454.3222
+ADBE,Adobe,0x232b8ed6377be97813853b0ac104c4cda8378d1b,20948654,18,88.92605,263.38,"stock close, Yahoo (last trading hour)",23421.343049
+UNH,UnitedHealth,0xcf364ea52787e289de6f32077834056e3e70d6a8,20949016,18,55.89668414,418.2,"stock close, Yahoo (last trading hour)",23375.993307348
+PATH,UiPath,0xfb2664f07b6aadd29ea7a59d8859b1aeb8645cda,20946654,18,1600.97347,14.0413,"stock close, Yahoo (last trading hour)",22479.748784311
+VST,Vistra,0x561e2a49212b7ccf47f2744ccb83e200722fadbc,20949579,18,104.58768208,140.3,"stock close, Yahoo (last trading hour)",14673.651795824
+SMCI,Super Micro Computer,0xc01aa1fecec0605b13bc84874ff7256c0f5f562a,48242,18,441.48569,32.949,"stock close, Yahoo (last trading hour)",14546.511999809998
+P,Everpure,0x1cdad396db64bda184d5182a97dd9b3c62100b7d,48227,18,111.4505,123.6,"stock close, Yahoo (last trading hour)",13775.2818
+AAOI,Applied Optoelectronics,0x521cf887e6531c6f667b5bc4d896e5d9bfe8eb2e,48233,18,198.501,67.31,"stock close, Yahoo (last trading hour)",13361.10231
+FLY,Firefly Aerospace Inc.,0x03bc731ffb162cdd7b98d3c6542bfc291126075d,20947507,18,719.60302,18.15,"stock close, Yahoo (last trading hour)",13060.794812999999
+IONQ,IonQ,0x558378e000d634a36593e338ebacdd6207640efe,46133,18,412.33601,31.19,"stock close, Yahoo (last trading hour)",12860.7601519
+FIX,Comfort Systems,0x93dbb1d2dc5d63f4abacff30485273f538df68ac,20949620,18,10.60699,1163.38,"stock close, Yahoo (last trading hour)",12339.9600262
+ELF,e.l.f. Beauty,0x39ec44bee4f6a116c6f9b8de566848a985c53c60,48255,18,104.76229,114.01,"stock close, Yahoo (last trading hour)",11943.9486829
+RDW,Redwire,0x92ef19e82bd8ff36661de838d5eae7e5cef0effe,48253,18,1390.221,8.34,"stock close, Yahoo (last trading hour)",11594.44314
+CLOV,Clover Health Investments,0x62200915e7deab1ec7f79fb246dadbb80eacddd0,20949691,18,2240.82802,4.62,"stock close, Yahoo (last trading hour)",10352.6254524
+WULF,TeraWulf,0x348be1a8663f15edde5cdf8a96bb69078f7ab6fd,20949088,18,914.94602,11.28,"stock close, Yahoo (last trading hour)",10320.591105599999
+POET,POET Technologies,0xcf6b2d875361be807eafa57458c80f28521f9333,48235,18,1835.24902,5.4431,"stock close, Yahoo (last trading hour)",9989.443940762001
+EWT,iShares MSCI Taiwan Capped ETF,0x1c690498150252222c275a5ced69d3a6b1f52d5e,20947973,18,87.446,104.68,"stock close, Yahoo (last trading hour)",9153.84728
+NOW,ServiceNow,0x0c3260af4b8f13a69c4c2dfb84fd667890cdfa14,48244,18,56.02563,159.35,"stock close, Yahoo (last trading hour)",8927.6841405
+XLK,State Street Technology Select Sector SPDR ETF,0x15cd20759ce7f3285c29a319de2d1a2e098c6f43,48264,18,48.59246201,183.53,"stock close, Yahoo (last trading hour)",8918.1745526953
+CVNA,Carvana,0xa4f319104089fe321dc8093c6e707d4fe190a988,20949656,18,151.80737,57.85,"stock close, Yahoo (last trading hour)",8782.0563545
+INTU,Intuit,0x56d23bee5f41a7120170b0c603dae30128e460e9,48272,18,25.50393049,343.69,"stock close, Yahoo (last trading hour)",8765.4458701081
+AUR,Aurora Innovation,0x373c06c4f7bde527d7dae4ba169e42b55e393ced,20949237,18,1771.15201,4.84,"stock close, Yahoo (last trading hour)",8572.3757284
+MDB,MongoDB,0xddf2266b79abf0b48898959b0ed6e6adf512be74,48220,18,23.01637,370.3,"stock close, Yahoo (last trading hour)",8522.961811
+MXL,MaxLinear,0x48961813349333209994750ffa89b3c5c22ec969,48213,18,131.15733,63.75,"stock close, Yahoo (last trading hour)",8361.2797875
+KSS,Kohls Corporation,0x12e3c047bf9aecaf9ddc98c05c31bfd1dd043993,20949425,18,336.56665459,24.4,"stock close, Yahoo (last trading hour)",8212.226371996
+OKLO,Oklo,0x8b2f88497f15a18e9d4ffa1a8ffb8538399ae774,20949123,18,311.408,26.32,"stock close, Yahoo (last trading hour)",8196.25856
+SHY,iShares 1-3 Year Treasury Bond ETF,0xbe274710bf3d9567e1b290ef6a5f9f90ca016fd8,20947135,18,100.28517982,81.4717,"stock close, Yahoo (last trading hour)",8170.404084741093
+SCHD,Schwab US Dividend Equity ETF,0xd63abb2c13d7a8421a8017a712802053568e3c1d,20948840,18,230.33416958,35.24,"stock close, Yahoo (last trading hour)",8116.976135999201
+CSCO,Cisco Systems,0xf543967eebb6f1917992ef0e68de63ab07a5a0da,20948587,18,75.36691986,106.51,"stock close, Yahoo (last trading hour)",8027.3306342886
+CRDO,Credo Technology Group,0x4d67253bc223e6b0e104f1084c1fb2b669ddc41b,20948873,18,51.278,148.86,"stock close, Yahoo (last trading hour)",7633.24308
+MOD,Modine,0xc6cbad1016b38b797610c25e1dc7d95988b1f362,20948005,18,56.46302,133.0,"stock close, Yahoo (last trading hour)",7509.58166
+SMR,NuScale Power,0x1eebee7f74517e0279dfb09d25b0407beec3fdd6,20946898,18,1396.60475,5.3297,"stock close, Yahoo (last trading hour)",7443.484336075
+AMBA,Ambarella,0x99d9d8663545151603863c5acbd6fc3218899009,20949048,18,106.229,66.2879,"stock close, Yahoo (last trading hour)",7041.6973290999995
+RGTI,Rigetti Computing,0x284358abc07f9359f19f4b5b4ac91901be2597ba,48231,18,608.821,11.52,"stock close, Yahoo (last trading hour)",7013.61792
+GLW,Corning,0x7c04e6a3368f2a1de3874f0e80d2e0a1a9915da6,48314,18,56.467,123.31,"stock close, Yahoo (last trading hour)",6962.94577
+PL,Planet Labs,0xaa4d64474c172010ab57719cb9951e6142a100d3,20948729,18,516.76302,13.371,"stock close, Yahoo (last trading hour)",6909.63834042
+JOBY,Joby Aviation,0xb334c5ce741b80b5b671f47f5c269cb193fe8e24,20948072,18,1430.78,4.75,"stock close, Yahoo (last trading hour)",6796.205
+KTOS,Kratos Defense & Security Solutions,0x7fd06a4d81ccfa3f351394e144d5191874c31313,20949729,18,171.66976,38.75,"stock close, Yahoo (last trading hour)",6652.2032
+LUNR,Intuitive Machines,0xa5d4968421ba94814be3b136b15cf422101ac1a3,48219,18,626.30293,10.48,"stock close, Yahoo (last trading hour)",6563.6547064
+QBTS,D-Wave Quantum,0xc583c60aef9dc401da72cec1b404743a93cea1cc,46113,18,557.845,11.7,"stock close, Yahoo (last trading hour)",6526.7865
+PANW,Palo Alto Networks,0xb039597ed45cba7b6e2fb9e8be51802969cee5be,20949196,18,16.988,382.0,"stock close, Yahoo (last trading hour)",6489.416
+CLS,Celestica,0xbf449977089c718c004a66c554b26b94ef3ad4de,20948260,18,24.89402,259.51,"stock close, Yahoo (last trading hour)",6460.2471302
+POWL,Powell Industries,0x237c16d66590f67b886d978acd362eaead8b18c7,20948039,18,42.065,151.29,"stock close, Yahoo (last trading hour)",6364.013849999999
+LRCX,Lam Research Corp,0x57b0030166db0c31690d1a5aa167e2e26e2c29a4,20946935,18,27.70632336,229.3702,"stock close, Yahoo (last trading hour)",6355.004930347872
+VRT,Vertiv,0xfa78c12e6488814a0262e4e802749a4a737d5fb7,20949841,18,32.18493065,194.4656,"stock close, Yahoo (last trading hour)",6258.86184981064
+CELH,Celsius,0x8cf07c5a878945185d327aaa6e33faa95f95e7bf,46134,18,214.61202,28.4,"stock close, Yahoo (last trading hour)",6094.981368
+TER,Teradyne,0x2778c5024d5ca2cdb0f8ead671ffc69963adcd9c,20948475,18,19.67021648,307.2,"stock close, Yahoo (last trading hour)",6042.690502656
+AXTI,AXT,0x141eea040c2250eec0314e336975e81f85f6585e,20949311,18,115.48501,52.2904,"stock close, Yahoo (last trading hour)",6038.757366904
+HWM,Howmet Aerospace,0xaea445c5f3db1a462998ccc422a875a361ee5d99,20947652,18,32.18426,187.39,"stock close, Yahoo (last trading hour)",6031.0084814
+APLD,Applied Digital,0xb8dbf92f9741c9ac1c32115e78581f23509916fd,46136,18,328.65965,18.25,"stock close, Yahoo (last trading hour)",5998.0386124999995
+PR,Permian Resources,0x4189f0c66ebbb0bfef1c31f763131361ef32f77c,48214,18,232.31195049,25.51,"stock close, Yahoo (last trading hour)",5926.2778569999
+AVAV,AeroVironment,0xf6290b5e7c26502e2da514c31509849718ea76a5,20950365,18,48.04101,122.8605,"stock close, Yahoo (last trading hour)",5902.342509105
+ALAB,"Astera Labs, Inc.",0x748c32c3ca24edf31ea597db1f3d330a7a6da3dc,20950021,18,22.809,257.6916,"stock close, Yahoo (last trading hour)",5877.6877044
+TE,T1 Energy,0xb1969f6604ca1ae7a2cd3f1827876e914594ca2d,20950404,18,2598.14336,2.26,"stock close, Yahoo (last trading hour)",5871.8039936
+TSEM,Tower Semiconductor,0x89776d4cd68193597a2fc132cfac1fde36ccea8a,48245,18,35.034,167.2,"stock close, Yahoo (last trading hour)",5857.684799999999
+CTSH,Cognizant,0x63d5a3b6939a33f1e75d8bcd85759858239600db,20948942,18,82.01401,70.54,"stock close, Yahoo (last trading hour)",5785.2682654
+ABCL,Abcellera Biologics,0x3139d77ace0cbaa5bdfd38bd1f1911a794af0b0e,20947402,18,492.53402,11.74,"stock close, Yahoo (last trading hour)",5782.3493948000005
+TTD,Trade Desk,0x0b5fb4031cae9163db10b169ee72685f0edc8545,20948763,18,442.269,12.9613,"stock close, Yahoo (last trading hour)",5732.3811897
+FTNT,Fortinet,0x3fb8976980d486084b2eb4a404bd12e72823958f,20949910,18,29.926,181.0111,"stock close, Yahoo (last trading hour)",5416.938178599999
+VSAT,ViaSat,0x26dcbfb34fc83cabd6990f449674efdc6097ff85,20946783,18,89.631,60.3225,"stock close, Yahoo (last trading hour)",5406.7659975
+IBRX,"ImmunityBio,",0x7c148f74ac7445d1f28366b7fcdc6792a9fcd0cf,20948909,18,654.82602,8.23,"stock close, Yahoo (last trading hour)",5389.2181446
+TEM,Tempus AI,0xb1cc0ec7db69cf43539119814df40071b9d61793,20950437,18,79.216,67.05,"stock close, Yahoo (last trading hour)",5311.4328
+INOD,Innodata,0xf1953dab6fad537488d5a022361ffaa8b4c95ec6,46125,18,89.01602,59.35,"stock close, Yahoo (last trading hour)",5283.100787
+VICR,Vicor,0x6006ed4b2f94110851ff7509d97d034f0eed9226,20947687,18,30.006,174.9,"stock close, Yahoo (last trading hour)",5248.0494
+SPMO,Invesco S&P 500 Momentum ETF,0xad622320e520de39e72d41ef07438c3fd3354875,48261,18,37.37533928,139.0,"stock close, Yahoo (last trading hour)",5195.17215992
+HII,Huntington Ingalls,0xeb61c0ed490a367d4e3631ccf8a74b3bfc7e775d,20947933,18,18.92501,274.0,"stock close, Yahoo (last trading hour)",5185.45274
+FICO,Fair Isaac,0xa48f22a46c0f1c46ca7d111cb6c137c271987180,20950535,18,6.639,768.0,"stock close, Yahoo (last trading hour)",5098.752
+COHR,Coherent,0x92f9f459f1a9a5ad266b182be7bffd1c6c666894,20947170,18,23.68501,207.99,"stock close, Yahoo (last trading hour)",4926.2452299
+LHX,L3Harris,0x48d60243c66437c6ac3c2495be94747aed5dfe25,20948335,18,19.39020195,253.3225,"stock close, Yahoo (last trading hour)",4911.974433478876
+ANET,Arista,0x28babd556b60e53663b8615036479a29c2cdd1bf,20947367,18,28.366,172.6,"stock close, Yahoo (last trading hour)",4895.9716
+MPWR,Monolithic Power Systems,0x52d50d0280ad1054b43f052bd70a49a212a1b128,20947284,18,4.19063538,1139.9897,"stock close, Yahoo (last trading hour)",4777.281169655586
+AXON,Axon,0xc27dbd474af5181c5a8777903690d8d262d12648,20947880,18,10.85401,422.0,"stock close, Yahoo (last trading hour)",4580.392220000001
+GEV,GE Vernova,0x94b8aae43a1ccc08aa64b7d1f29b4d920af4a0c9,20947047,18,5.341,813.0,"stock close, Yahoo (last trading hour)",4342.233
+ZS,Zscaler,0x7dc013eb55e436f30d7ed1afe4e36d6e45e3c3f7,48232,18,16.502,256.7267,"stock close, Yahoo (last trading hour)",4236.504003399999
+JBL,Jabil Inc.,0xeaf2512dfc1beac608f8794b3793cd4e02894aa6,20950328,18,15.10801,273.3393,"stock close, Yahoo (last trading hour)",4129.612877793
+FLNC,Fluence Energy,0x282e87451e10fa6679bc7d76c69be44cd3fc777c,46115,18,715.351,5.5618,"stock close, Yahoo (last trading hour)",3978.6391918
+SIMO,Silicon Motion,0x77e655e37f4d913fb9540e0d541d824171a60e81,20948370,18,20.45702,188.1,"stock close, Yahoo (last trading hour)",3847.9654619999997
+DOCN,DigitalOcean,0xc02f12b9fe9e707079ec0d546f3050d3f6c1f8bd,20948981,18,40.79002,93.12,"stock close, Yahoo (last trading hour)",3798.3666624
+OUST,Ouster,0x40e7a279850e443f582059ae5dc1c3b6563e6395,20949763,18,121.188,29.6,"stock close, Yahoo (last trading hour)",3587.1648000000005
+SLS,SELLAS Life Sciences,0x285b231728c7e4333799183df1094d775246a535,20949350,18,306.0,11.58,"stock close, Yahoo (last trading hour)",3543.48
+AEIS,Advanced Energy,0xfaf9cb261b5fcc1f404bb10cd39c5c6c1974e612,20948623,18,16.169,216.63,"stock close, Yahoo (last trading hour)",3502.69047
+FISV,Fiserv,0x9ece29a4a2397c0a35fb5fa8ee2b9509130a98cc,20947012,18,69.21,49.94,"stock close, Yahoo (last trading hour)",3456.3473999999997
+UMC,United Microelectronics,0x0e6e67ba88e7b5d9b67636a215c76779b948de79,48240,18,182.072,18.9,"stock close, Yahoo (last trading hour)",3441.1607999999997
+MTSI,MACOM,0xc93f4d80e268ab922e871bd169156c3cc41894e6,20949272,18,14.49103,236.92,"stock close, Yahoo (last trading hour)",3433.2148276
+ONTO,Onto Innovation,0x8ff63eaeee3fe54ba450c4f5538064ec5a893aef,20949945,18,16.821,198.5,"stock close, Yahoo (last trading hour)",3338.9685000000004
+TEAM,Atlassian Corporation,0x5b97476b922f3305131b8f0b9d333172e87f4aae,20950133,18,14.12301,227.8301,"stock close, Yahoo (last trading hour)",3217.646780601
+CLSK,CleanSpark,0xcbb95bbf36099d34da091dc6fa6f49efa257cee3,46127,18,369.304,7.87,"stock close, Yahoo (last trading hour)",2906.4224799999997
+CRWD,CrowdStrike Holdings,0xea72ecca2d0f6bfa1394dbbcff85b52cd4233931,48228,18,11.058495,258.4,"stock close, Yahoo (last trading hour)",2857.515108
+AMKR,Amkor Technology,0xdd356aa38f40a7b7076755ac854b6fbb1f0d305b,20949804,18,71.8605676,39.35,"stock close, Yahoo (last trading hour)",2827.7133350599997
+NAVN,Navan,0xf7181b63fdb858558a74ba96bc42732684cd7965,20948295,18,93.97301,26.96,"stock close, Yahoo (last trading hour)",2533.5123496
+KLAC,KLA,0x96b933c74ecb4a0926b9210cef7b743ef46be2e9,20948694,18,16.826,146.19,"stock close, Yahoo (last trading hour)",2459.79294
+NVTS,Navitas Semiconductor,0xbe6702d7b70315376dc48a3293f24f0982f86386,48317,18,286.12002,8.4398,"stock close, Yahoo (last trading hour)",2414.7957447960002
+PWR,Quanta,0x9ab02ead789b6903c3c44d0ed32f9c707cdf12fd,20947762,18,4.361,545.0,"stock close, Yahoo (last trading hour)",2376.745
+CIEN,Ciena,0x44f6d488021f8233b9416294d1fe9b1fee28382d,20948118,18,6.818,320.2,"stock close, Yahoo (last trading hour)",2183.1236
+AEHR,Aehr,0x5f604fba1162193a4388a5dfa56f556f3e133cc2,20948804,18,36.061,55.01,"stock close, Yahoo (last trading hour)",1983.71561
+XNDU,Xanadu Quantum,0xa8eb3bccbf2017ee7cbfb652eb51cf2e1b153289,46135,18,564.0,2.67,"stock close, Yahoo (last trading hour)",1505.8799999999999
+WEEK,Roundhill Weekly T-Bill ETF,0xc93a8c440cea26d7445df01729f193b27965099f,19698,18,5.949085750295342,100.01,"stock close, Yahoo (last trading hour)",594.9680658870371
+SATS,EchoStar,0x95052ddcd5dc25641657424a8cf04834997e1730,48254,18,0.103,92.6,"stock close, Yahoo (last trading hour)",9.537799999999999
+JEPQ,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Nasdaq Equity Premium Income ETF,0x565d3ff42d7d880287e5796b4c708632be0ca098,20949387,18,0.0,58.4689,"stock close, Yahoo (last trading hour)",0.0
+ZETA,Zeta Global,0xe674c5c071821f48bb2d12cadb83617eff438f9e,20948441,18,0.0,33.89,"stock close, Yahoo (last trading hour)",0.0
+QNT,Quantinuum Inc. Class A,0xb7edfe2f33c1ac06830a971dfb559bde8a2a3d76,20947723,18,0.0,36.43,"stock close, Yahoo (last trading hour)",0.0
+DRAM,Roundhill Memory ETF,0x33c18e2cc8ae9ae486e785090d86b2ce632ff994,48429,18,0.0,47.18,"stock close, Yahoo (last trading hour)",0.0
+NOK,Nokia,0x25ee805ac369b6e3f8bf5764c682d34a37cb7175,48315,18,0.0,8.11,"stock close, Yahoo (last trading hour)",0.0
+RVI,Robinhood Ventures Fund I,0xb02e3e1b7f68559427c2d9100566e4f3cc5b7611,48274,18,0.0,24.66,"stock close, Yahoo (last trading hour)",0.0
+NASA,Tema Space Innovators ETF,0x6ddb95405db6179012bff2fff7e0f8d49cf00137,48239,18,0.0,20.4137,"stock close, Yahoo (last trading hour)",0.0
+ARM,Arm Holdings plc,0x666716999e75d2652398ff830bbc2e485946e140,46122,18,0.0,209.99,"stock close, Yahoo (last trading hour)",0.0
+BND,Vanguard Total Bond Market ETF,0x2f62fc9fabb470c690f141c28340ed832bb27020,21689593,18,0.0,71.54,"stock close, Yahoo (last trading hour)",0.0
